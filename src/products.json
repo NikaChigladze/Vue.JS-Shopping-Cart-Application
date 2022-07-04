@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "title": "Leather Bag",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, quod cum! Fuga laboriosam quas voluptatibus.",
+    "price": "150",
+    "url": "https://www.pngall.com/wp-content/uploads/4/Leather-Bag-PNG.png"
+
+  },
+  {
+    "id": "2",
+    "title": "Converses",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, quod cum! Fuga laboriosam quas voluptatibus.",
+    "price": "220",
+    "url": "https://pngimg.com/uploads/converse/converse_PNG1.png"
+
+  },
+  {
+    "id": "3",
+    "title": "Black Dress",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, quod cum! Fuga laboriosam quas voluptatibus.",
+    "price": "60",
+    "url": "https://pngroyale.com/wp-content/uploads/2022/04/Black-Dress-PNG-Transparent-Image.png"
+
+  },
+  {
+    "id": "4",
+    "title": "Playstation 5",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, quod cum! Fuga laboriosam quas voluptatibus.",
+    "price": "2500",
+    "url": "https://chronicle.durhamcollege.ca/wp-content/uploads/2021/01/ps5-photo.png"
+
+  },
+  {
+    "id": "5",
+    "title": "Iphone 13 Pro",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, quod cum! Fuga laboriosam quas voluptatibus.",
+    "price": "3000",
+    "url": "http://assets.stickpng.com/images/61d2f85b92b57c0004c64745.png"
+
+  },
+  {
+    "id": "6",
+    "title": "Marshall Headphones",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, quod cum! Fuga laboriosam quas voluptatibus.",
+    "price": "450",
+    "url": "https://www.marshallheadphones.com/on/demandware.static/-/Sites-zs-master-catalog/default/dw6b782c73/images/marshall/headphones/major-iv/medium/cart-marshall-major-iv-black.png"
+
+  },
+  {
+    "id": "7",
+    "title": "Sofa",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, quod cum! Fuga laboriosam quas voluptatibus.",
+    "price": "330",
+    "url": "https://freepngimg.com/save/43829-sofa-bed-free-transparent-image-hq/480x480"
+
+  },
+  {
+    "id": "8",
+    "title": "TV",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, quod cum! Fuga laboriosam quas voluptatibus.",
+    "price": "2400",
+    "url": "https://www.pngall.com/wp-content/uploads/5/Full-HD-LED-TV-PNG-Picture.png"
+
+  }
+]
